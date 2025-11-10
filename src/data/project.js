@@ -123,8 +123,11 @@
     id: 12,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOERDZhYn8Jy7EW39dG6nwHzLojMA9c2qVoA&s",
+    title: "Creme Pasta",
+    
     description:
-      "",
+            "Rich creamy Alfredo sauce mixed with tender pasta and cheese",
+
     price: 550,
     category: "Pasta",
     rating: 5,
